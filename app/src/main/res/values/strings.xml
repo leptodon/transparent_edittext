@@ -1,0 +1,7 @@
+<resources>
+    <string name="fillRegFormText">Заполните форму\n регистрации</string>
+    <string name="nameHint">Имя</string>
+    <string name="emailHint">Email (если есть)</string>
+    <string name="phoneHint">Номер телефона</string>
+    <string name="nextBtnText">Перейти к оплате</string>
+</resources>
